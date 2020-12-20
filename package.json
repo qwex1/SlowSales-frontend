@@ -1,0 +1,29 @@
+{
+  "name": "SlowSales-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.4",
+    "axios": "^0.21.0",
+    "buefy": "^0.9.4",
+    "core-js": "^3.6.5",
+    "moment": "^2.29.1",
+    "momentjs": "^2.0.0",
+    "nuxt": "^2.14.6",
+    "vue-axios": "^3.2.0",
+    "vue-moment": "^4.1.0"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.1.0",
+    "sass": "^1.30.0",
+    "sass-loader": "^10.1.0"
+  }
+}
